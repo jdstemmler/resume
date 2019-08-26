@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Jayson Stemmler",
+    "label": "Technical Project Manager",
+    "email": "jdstemmler@gmail.com",
+    "phone": "(360) 689-2068",
+    "summary": "Technical Project Manager with a background in data science with proficiency in R and Python.",
+    "locaton": {
+      "address": "1000 Cabin Creek Lane SW #B202",
+      "city": "Issaquah",
+      "postalCode": "WA 98027",
+      "countryCode": "US",
+      "region": "Washington"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jdstemmler",
+        "url": "https://www.linkedin.com/in/jdstemmler/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Neal Analytics, LLC",
+      "website": "https://nealanalytics.com/",
+      "position": "Technical Project Manager",
+      "startDate": "2019-07-01",
+      "summary": "As a Technical Project Manager for Neal Analytics, I work closely with our clients to ensure successful delivery of a project from planning to delivery. With a background in data science and a proficiency in both R and Python, I am well suited to work closely with the delivery teams and our stakeholders to drive the project from both a technical and a strategic perspective.",
+      "highlights": [
+        "Work with client stakeholders to thoroughly understand the need from a technical, strategic, and business perspective. Use this information to help identify project scope and major deliverables.",
+        "Regular sync with delivery teams to ensure requirements and deliverables are understood and met.",
+        "Employ Agile project management processes to meet project milestones and deliverables.",
+        "Engage regularly with client to provide updates and gather feedback to ensure high satisfaction in project progress and quality of work."
+      ]
+    },
+    {
+      "company": "Neal Analytics, LLC",
+      "website": "https://nealanalytics.com/",
+      "position": "Data Scientist",
+      "startDate": "2017-08-01",
+      "endDate": "2019-07-01",
+      "summary": "As a data scientist at Neal Analytics, I worked to support one of our end clients on a long term engagement to provide data science support, expertise, and leadership for a team of five.",
+      "highlights": [
+        "Develop, test, maintain, and deploy a set of forecast models to be used by the client and their internal partners.",
+        "Meet regularly with client stakeholders to prioritize backlog, communicate results and findings, and provide recommendations for future project direction.",
+        "Work closely with client to apply data science techniques to problems within the context and constraints of their specific domain."
+      ]
+    },
+    {
+      "company": "University of Washington Department of Atmospheric Science",
+      "website": "https://atmos.uw.edu/",
+      "position": "Research Scientist",
+      "startDate": "2012-10-01",
+      "endDate": "2017-08-01",
+      "summary": "Performed data processing, aggregation, analysis, and visualization using Python in a highly independent environment in collaboration with a department faculty member.",
+      "highlights": [
+        "Developed and released a public, web-based, data browser that incorporated datasets from multiple sources in order to provide a more comprehensive view of the atmospheric state.",
+        "Created open-source data analysis and visualization package in Python.",
+        "Provided feedback to data providers in order to improve the quality of publicly available scientific datasets.",
+        "Authored, co-authored, and generated visualizations for use in peer-reviewed journal articles and presented research topics at working group meetings and conferences."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Galvanize",
+      "area": "Data Science",
+      "studyType": "Certificate",
+      "startDate": "2015-10-01",
+      "endDate": "2016-01-01"
+    },
+    {
+      "institution": "University of Wyoming",
+      "studyType": "M.S.",
+      "area": "Atmospheric Science",
+      "startDate": "2010-08-01",
+      "endDate": "2012-09-01"
+    },
+    {
+      "institution": "University of Washington",
+      "area": "Atmospheric Science",
+      "studyType": "B.S.",
+      "startDate": "2006-09-01",
+      "endDate": "2010-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Project Management",
+      "keywords": [
+        "Agile Project Management",
+        "Azure DevOps",
+        "Jira"
+      ]
+    },
+    {
+      "name": "Data Science / Development",
+      "keywords": [
+        "Machine Learning",
+        "Python",
+        "Git / GitHub",
+        "R-CRAN",
+        "Databricks",
+        "SQL"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Photography",
+        "Home Automation"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Kayaking / Paddle Boarding",
+        "Sailing",
+        "Skiing (downhill, cross-country)"
+      ]
+    }
+  ]
+}
