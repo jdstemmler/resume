@@ -2,7 +2,7 @@
 
 [[ -d export ]] || mkdir export
 cd ./json
-for f in html pdf md
+for f in html pdf
 do
     resume export --format $f resume.$f
     mv resume.$f ../export/jayson-stemmler-resume.$f
