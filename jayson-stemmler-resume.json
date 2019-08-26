@@ -3,7 +3,6 @@
     "name": "Jayson Stemmler",
     "label": "Technical Project Manager",
     "email": "jdstemmler@gmail.com",
-    "phone": "(360) 689-2068",
     "summary": "Technical Project Manager with a background in data science with proficiency in R and Python.",
     "locaton": {
       "address": "1000 Cabin Creek Lane SW #B202",
@@ -48,7 +47,7 @@
       ]
     },
     {
-      "company": "University of Washington Department of Atmospheric Science",
+      "company": "University of Washington",
       "website": "https://atmos.uw.edu/",
       "position": "Research Scientist",
       "startDate": "2012-10-01",
